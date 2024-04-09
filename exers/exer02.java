@@ -12,5 +12,6 @@ public class exer02 {
         double salarioNovo = salario * 1.25;
 
         System.out.println("seu novo salário é de " + salarioNovo);
+        entrada.close();
     }
 }

@@ -9,6 +9,7 @@ public class exer06 {
       
    String   res = (num % 2 == 0)? "par" : "impar";
       System.out.println("o número é "+ res);
+      entrada.close();
     }
 }
 

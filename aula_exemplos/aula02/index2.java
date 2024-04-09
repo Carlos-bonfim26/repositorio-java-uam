@@ -1,6 +1,5 @@
 package aula02;
 
-import javax.sound.sampled.SourceDataLine;
 
 public class index2 {
     

@@ -35,5 +35,6 @@ public class index {
                 System.out.println("valor inválido");
                 break;
         }
+        entrada.close();
     }
 }

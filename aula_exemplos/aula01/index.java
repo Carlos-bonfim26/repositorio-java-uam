@@ -11,10 +11,9 @@ public class index {
 
         System.out.println("sua idade é " + idade);
 
-        int val1, val2, soma;
+        int val1, val2;
         val1 = 2;
         val2 = 7;
-        soma = val1 * val2;
         double media = (val1 + val2) / 2;
         System.out.println(media);
 

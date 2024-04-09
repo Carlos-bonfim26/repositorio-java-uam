@@ -37,7 +37,7 @@ do{
         opcao = input.next().charAt(0);
     } while(opcao == 's');
    
-    
+    input.close();
     }
 
 }

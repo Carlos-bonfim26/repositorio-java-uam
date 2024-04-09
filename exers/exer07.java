@@ -9,5 +9,6 @@ public class exer07 {
       
    String   res = (num >= 0)? "positivo" : "negativo";
       System.out.println("o número é "+ res);
+      entrada.close();
     }
 }

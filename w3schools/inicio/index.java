@@ -19,4 +19,5 @@ public class index {
     } else{
         System.out.println("o pedido que você digitou não existe.");
     }
+    teclado.close();
 }}
