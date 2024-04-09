@@ -10,7 +10,7 @@ public class index2 {
         int numero = entrada.nextInt();
         int contador = 1;
         while(contador <= 10){
-            System.out.println(numero + " x " + contador + " = " + numero *contador );
+            System.out.printf("%2d x %2d = %2d \n",numero, contador,  numero *contador );
             contador++;
         }
         entrada.close();
